@@ -1,11 +1,10 @@
 /*
-Title: Assignment 6.3
+Title: Assignment 8.2
 Author: Professor Krasso
-Date: 15 August 2020
+Date: 28 August 2020
 Modified By: Brendan Mulhern
-Description: This is project is the GPA-Calulator App!
+Description: It's the in-n-out book project using the Open Library API!
 */
-
 import { Component, OnInit } from '@angular/core';
 import { MAT_DIALOG_DATA, MatDialogRef } from '@angular/material/dialog'
 import { Inject } from '@angular/core'
